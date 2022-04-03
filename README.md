@@ -1,5 +1,4 @@
 # xdsg
-查看兄弟时光最新网址
 
 兄弟时光最新官网地址：https://www.xdsg.xyz/
 
